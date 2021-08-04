@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArturoSbr.
 - 👀 I’m interested in developing predictive tools to forecast all sorts of phenomena using data.
-- 🚀 I have over five years of professional experience as a Data Scientist. In fact, [click here](https://developer.circulodecredito.com.mx/productos/ficoscore) to check my latest published model!
+- 🚀 I have over five years of professional experience as a Data Scientist. In fact, [click here](https://developer.circulodecredito.com.mx/productos/fintech-score) to check my latest published model!
 - 🌱 I’m currently studying a full-time MSc program in Applied Economics.
