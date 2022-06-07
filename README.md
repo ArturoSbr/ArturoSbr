@@ -25,6 +25,6 @@ As of right now, I'm really into putting models in production. Hmu if you want t
 Otherwise, you can
 1. check out my [website](https://www.soberonarturo.com/);
 2. read my [Data Science blog](https://arturosbr.medium.com/); or
-3. ask me anything code-related on [StackOverflow](https://stackoverflow.com/users/9795817/arturo-sbr)
+3. ask me anything code-related on [StackOverflow](https://stackoverflow.com/users/9795817/arturo-sbr).
 
 Once again, thank you for being here.
