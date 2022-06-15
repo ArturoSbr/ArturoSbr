@@ -2,7 +2,7 @@
 
 ## What I do
 My name is Arturo and I use data to
-1. make predictions and
+1. make predictions, and
 2. quantify cause-effect relationships.
 
 In the past, I have developed predictive tools to forecast all sorts of phenomena. As an example of my work as a Data Scientist, you can [click here](https://developer.circulodecredito.com.mx/productos/fintech-score) to check out my most recent model.
@@ -27,4 +27,4 @@ Otherwise, you can
 2. read my [Data Science blog](https://arturosbr.medium.com/); or
 3. ask me anything code-related on [StackOverflow](https://stackoverflow.com/users/9795817/arturo-sbr).
 
-Once again, thank you for being here.
+Once again, thank you for being here!
