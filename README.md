@@ -7,7 +7,7 @@ My name is Arturo and I use data to
 
 In the past, I have developed predictive tools to forecast all sorts of phenomena. As an example of my work as a Data Scientist, you can [click here](https://developer.circulodecredito.com.mx/productos/fintech-score) to check out my most recent model.
 
-I am currently studying for an MSc in Applied Economics. As a consequence, my latest repositories have focused on Causal Inference rather than Machine Learning.
+I have a BSc in Economics as well as an MSc in Applied Economics. Most of the stuff I do here is related to predictive modelling or causal inference.
 
 ## Take the tour
 I'm actually really glad you're here, so I'll try to make it worth your while.
