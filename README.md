@@ -2,7 +2,7 @@
 My name is Arturo and I am a 29 year old Data Scientist with a BSc in Economics, an MSc in Applied Economics and over six years of experience in the field.
 
 ## What I do
-In short, I use data to:
+As a Data Scientist, I use data to:
 1. Make predictions, and
 2. Quantify cause-effect relationships.
 
