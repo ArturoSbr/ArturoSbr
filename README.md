@@ -1,5 +1,5 @@
 # Welcome to my GitHub!
-My name is Arturo and I am a 29 year old Data Scientist with a BSc in Economics, an MSc in Applied Economics and over six years of experience in the field.
+My name is Arturo and I am a highly-caffeinated Data Scientist with a BSc in Economics, an MSc in Applied Economics and over six years of experience in the field.
 
 ## What I do
 As a Data Scientist, I use data to:
