@@ -6,7 +6,7 @@ As a Data Scientist, I use data to:
 1. Make predictions, and
 2. Quantify cause-effect relationships.
 
-In the past, I have developed predictive tools to forecast all sorts of phenomena. As an example of my work as a Data Scientist, you can [click here](https://developer.circulodecredito.com.mx/productos/fintech-score) to check out my most recent model.
+In the past, I have developed predictive tools to forecast all sorts of phenomena. As an example of my work as a Data Scientist, you can [click here](https://developer.circulodecredito.com.mx/producto/fintech-score-simulacion) to send requests to a credit score I published a few years ago (which is still being consumed by multiple Fintechs all over the world!).
 
 I have a BSc in Economics as well as an MSc in Applied Economics. Most of the stuff I do here is related to predictive modelling or causal inference.
 
