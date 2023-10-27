@@ -8,6 +8,9 @@ As a Data Scientist, I use data to:
 
 In the past, I have developed predictive tools to forecast all sorts of phenomena. As an example of my work as a Data Scientist, you can [click here](https://developer.circulodecredito.com.mx/producto/fintech-score-simulacion) to send requests to a credit score I published a few years ago (which is still being consumed by multiple Fintechs all over the world!).
 
+## What I'm working on right now
+I am currently developing a PySpark implementation of the [Louvain algorithm for community detection](https://arxiv.org/abs/0803.0476) for [@BBVA](https://www.bbva.com/). I had never worked with Graphs prior to this, but developing this algorithm has quickly made Graph Theory one of my favorite fields of study. In fact, I have made a few contributions to [NetworkX](https://github.com/networkx) and [GraphFrames](https://graphframes.github.io/graphframes/docs/_site/index.html) as part of this project!
+
 ## Take the tour
 I'm actually really glad you're here, so I'll try to make it worth your while.
 
