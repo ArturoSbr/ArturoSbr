@@ -18,13 +18,3 @@ You can:
 4. Use [this cheat-sheet](https://github.com/ArturoSbr/aws-ccp-cheat-sheet) to ace the AWS Certified Cloud Practitioner exam.
 
 Hope you enjoy your stay (;
-
-## Get in touch
-As of right now, I'm really into deploying data products in the cloud. Hit me up if you want to develop any kind of classifier, put it in a container and launch it using a serverless solution (i.e. Google Cloud Run).
-
-Otherwise, you can:
-1. Check out my [website](https://www.soberonarturo.com/);
-2. Read my [Data Science blog](https://arturosbr.medium.com/); or
-3. Ask me anything code-related on [StackOverflow](https://stackoverflow.com/users/9795817/arturo-sbr).
-
-Once again, thank you for being here!
