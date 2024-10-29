@@ -1,10 +1,10 @@
 # Welcome to my GitHub!
-My name is Arturo and I am a highly-caffeinated Data Scientist working at
-[BBVA](https://www.bbva.com/). It took me a BSc in Economics and an MSc in
-Applied Economics to realize I don't know much about Economics at all! Luckily,
-I am pretty good at using data to make predictions, and quantify cause-effect
-relationships.
+My name is Arturo and I am a highly-caffeinated Data Scientist. It took me a
+BSc in Economics and an MSc in Applied Economics to realize I don't know much
+about Economics at all! Luckily, I am pretty good at using data to make
+predictions and estimate cause-effect relationships.
 
+## What I'm working on
 I am currently developing multiple graph-based vanilla-PySpark solutions.
 Namely, I developed the
 [Louvain algorithm for community detection](https://arxiv.org/abs/0803.0476)
