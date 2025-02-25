@@ -1,18 +1,20 @@
-# Welcome to my GitHub!
+# Welcome!
 My name is Arturo and I am a highly-caffeinated Data Scientist. It took me a
 BSc in Economics and an MSc in Applied Economics to realize I don't know much
-about Economics at all! Luckily, I am pretty good at using data to make
-predictions and estimate cause-effect relationships.
+about Economics at all! Luckily, I am pretty good at using data to develop
+predictive Machine Learning models and estimate cause-effect relations.
+I put my brain to good use over at @[BBVA](https://github.com/BBVA).
 
 ## What I'm working on
-I am currently developing multiple graph-based vanilla-PySpark solutions.
-Namely, I developed the
-[Louvain algorithm for community detection](https://arxiv.org/abs/0803.0476)
-as well as a series of message-aggregation functions that make it easy to
-engineer graph-based fetures. In developing these solutions, I made a few
-contributions to [NetworkX](https://github.com/networkx) and
-[GraphFrames](https://graphframes.github.io/graphframes/docs/_site/index.html).
-Soon, some of my work will be made available to the whole community as part of
-[Mercury](https://www.bbvaaifactory.com/mercury/) - BBVA's open source library.
+I recently developed a vanilla-PySpark implementation of the [
+  Louvain algorithm for community detection
+](https://github.com/BBVA/mercury-graph/blob/feature/graph_features/mercury/graph/ml/louvain.py)
+and I'm currently working on publishing a series of message-aggregation functions
+that make it easy to engineer graph-based fetures.
+
+I've also made a few contributions to [NetworkX](https://github.com/networkx),
+[scikit-learn](https://github.com/scikit-learn/scikit-learn) and
+[GraphFrames](https://graphframes.github.io/graphframes/docs/_site/index.html)
+in recent months.
 
 Hope you enjoy your stay (;
