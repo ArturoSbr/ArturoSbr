@@ -8,7 +8,11 @@ I work at @[BBVA](https://www.bbva.com) as a Data Scientist and I'm currently te
 Econometrics to Master's students at @[ITAM](https://www.itam.mx).
 
 ## What I'm working on
-I recently developed a vanilla-PySpark implementation of the
+I'm currently enrolled in Stanford's professional [Artificial Intelligence Program](
+  https://online.stanford.edu/programs/artificial-intelligence-professional-program
+) and I should graduate later this year.
+
+I recently developed a vanilla PySpark implementation of the
 [Louvain algorithm for community detection](
   https://github.com/BBVA/mercury-graph/blob/feature/graph_features/mercury/graph/ml/louvain.py
 )
