@@ -14,7 +14,7 @@ I'm currently enrolled in Stanford's professional [Artificial Intelligence Progr
 
 I recently developed a vanilla PySpark implementation of the
 [Louvain algorithm for community detection](
-  https://github.com/BBVA/mercury-graph/blob/feature/graph_features/mercury/graph/ml/louvain.py
+  https://github.com/BBVA/mercury-graph/blob/master/mercury/graph/ml/louvain.py
 )
 as well as a [module](
   https://github.com/BBVA/mercury-graph/blob/master/mercury/graph/ml/graph_features.py
