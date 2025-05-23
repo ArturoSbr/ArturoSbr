@@ -1,11 +1,12 @@
 # Welcome!
-My name is Arturo and I am a highly-caffeinated Data Scientist with over 10 years of XP
-in the fields of tech and finance. I have a BSc and an MSc in Economics, but I mainly
-use data to develop predictive Machine Learning models and estimate cause-effect
-relations.
+My name is Arturo and I'm a highly caffeinated data scientist with 10 years of
+experience in the fields of tech and finance. I love training machine learning models
+from scratch and estimating causal effects from non-experimental data. In a nutshell, I
+use AI to figure out *what* will happen, and econometrics to understand *why* it's
+happening.
 
-I work at @[BBVA](https://www.bbva.com) as a Data Scientist and I'm currently teaching
-Econometrics to Master's students at @[ITAM](https://www.itam.mx).
+I work at @[BBVA](https://www.bbva.com) as a Data Scientist and I also teach
+Econometrics at @[ITAM](https://www.itam.mx).
 
 ## What I'm working on
 I'm currently enrolled in Stanford's professional [Artificial Intelligence Program](
