@@ -5,13 +5,11 @@ from scratch and estimating causal effects from non-experimental data. In a nuts
 use AI to figure out *what* will happen, and econometrics to understand *why* it's
 happening.
 
-I work at @[BBVA](https://www.bbva.com) as a Data Scientist and I also teach
-Econometrics at @[ITAM](https://www.itam.mx).
+I work at @[Google](https://about.google) as a Behavioral Data Scientist and I also
+teach Econometrics at @[ITAM](https://www.itam.mx).
 
 ## What I'm working on
-I'm currently enrolled in Stanford's professional [Artificial Intelligence Program](
-  https://online.stanford.edu/programs/artificial-intelligence-professional-program
-) and I should graduate later this year.
+I'm currently **obsessed** with transformers and multi-head attention mechanisms.
 
 I recently developed a vanilla PySpark implementation of the
 [Louvain algorithm for community detection](
